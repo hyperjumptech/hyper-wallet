@@ -3,7 +3,7 @@ module github.com/hyperjumptech/bookkeeping
 go 1.22.1
 
 require (
-	github.com/AppsFlyer/go-sundheit v0.5.0
+	github.com/AppsFlyer/go-sundheit v0.6.0
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/gorilla/mux v1.8.1
 	github.com/hyperjumptech/acccore v1.0.4
